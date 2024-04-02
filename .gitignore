@@ -1,0 +1,17 @@
+//folders
+.venv
+venv
+face-mask-dataset
+face-mask-dataset2
+face-mask-dataset3
+face-mask-dataset4
+
+
+
+//files
+FaceMaskGPU.h5
+FaceMaskGPU2.h5
+FaceMaskGPU3.h5
+sample.mp4
+white.jpeg
+
